@@ -54,7 +54,7 @@ In the this page added some information obout the user and it can be added their
 ---
 
 
-![output image](output.png)
+![output image](./output.png)
 
 if you contact us then you can contact us at this no which is given in above image.
 
